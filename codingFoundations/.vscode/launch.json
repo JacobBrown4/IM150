@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/dotnetProjects/csharpBasics/Interfaces/bin/Debug/net6.0/Interfaces.dll",
+            "program": "${workspaceFolder}/dotnetProjects/csharpBasics/DependencyInjection/bin/Debug/net6.0/DependencyInjection.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/dotnetProjects/csharpBasics/Interfaces",
+            "cwd": "${workspaceFolder}/dotnetProjects/csharpBasics/DependencyInjection",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

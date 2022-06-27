@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\bin\Debug\net6.0\DependencyInjection.exe
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\bin\Debug\net6.0\DependencyInjection.deps.json
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\bin\Debug\net6.0\DependencyInjection.runtimeconfig.json
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\bin\Debug\net6.0\DependencyInjection.dll
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\bin\Debug\net6.0\DependencyInjection.pdb
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfo.cs
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.dll
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\refint\DependencyInjection.dll
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.pdb
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\DependencyInjection.genruntimeconfig.cache
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\DependencyInjection\obj\Debug\net6.0\ref\DependencyInjection.dll
