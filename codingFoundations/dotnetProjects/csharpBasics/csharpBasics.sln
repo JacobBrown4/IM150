@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{F74CEBE5-C7B5-40A7-8E0F-53AA5F4823B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC_DI_Console", "RepositoryPattern\SC_DI_Console\SC_DI_Console.csproj", "{D7557442-2D31-4D1E-ABFB-13047D9B3E7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,10 +82,15 @@ Global
 		{F74CEBE5-C7B5-40A7-8E0F-53AA5F4823B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F74CEBE5-C7B5-40A7-8E0F-53AA5F4823B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F74CEBE5-C7B5-40A7-8E0F-53AA5F4823B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7557442-2D31-4D1E-ABFB-13047D9B3E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7557442-2D31-4D1E-ABFB-13047D9B3E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7557442-2D31-4D1E-ABFB-13047D9B3E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7557442-2D31-4D1E-ABFB-13047D9B3E7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AC421CB2-C402-4BA0-B54A-306397057937} = {054ED680-BC1A-4DAA-9CDE-52EF84C23481}
 		{C90780BF-5F2F-44DE-9E88-D3F534277484} = {054ED680-BC1A-4DAA-9CDE-52EF84C23481}
 		{77285FE3-5EA9-4798-8485-6BBC9C4DD49A} = {054ED680-BC1A-4DAA-9CDE-52EF84C23481}
+		{D7557442-2D31-4D1E-ABFB-13047D9B3E7F} = {054ED680-BC1A-4DAA-9CDE-52EF84C23481}
 	EndGlobalSection
 EndGlobal
