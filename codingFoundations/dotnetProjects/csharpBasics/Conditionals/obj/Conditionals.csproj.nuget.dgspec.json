@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/Conditionals.csproj": {}
+    "C:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\dotnetProjects\\csharpBasics\\Conditionals\\Conditionals.csproj": {}
   },
   "projects": {
-    "/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/Conditionals.csproj": {
+    "C:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\dotnetProjects\\csharpBasics\\Conditionals\\Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/Conditionals.csproj",
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\dotnetProjects\\csharpBasics\\Conditionals\\Conditionals.csproj",
         "projectName": "Conditionals",
-        "projectPath": "/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/Conditionals.csproj",
-        "packagesPath": "/Users/thomashindmanjr/.nuget/packages/",
-        "outputPath": "/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/",
+        "projectPath": "C:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\dotnetProjects\\csharpBasics\\Conditionals\\Conditionals.csproj",
+        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\dotnetProjects\\csharpBasics\\Conditionals\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/thomashindmanjr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

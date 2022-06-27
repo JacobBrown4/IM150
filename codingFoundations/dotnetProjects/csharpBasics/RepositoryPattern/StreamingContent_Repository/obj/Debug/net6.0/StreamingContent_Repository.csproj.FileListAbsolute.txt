@@ -10,3 +10,15 @@
 /Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/refint/StreamingContent_Repository.dll
 /Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.pdb
 /Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/ref/StreamingContent_Repository.dll
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\bin\Debug\net6.0\StreamingContent_Repository.deps.json
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\bin\Debug\net6.0\StreamingContent_Repository.dll
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\bin\Debug\net6.0\StreamingContent_Repository.pdb
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\StreamingContent_Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\StreamingContent_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\StreamingContent_Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\StreamingContent_Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\StreamingContent_Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\StreamingContent_Repository.dll
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\refint\StreamingContent_Repository.dll
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\StreamingContent_Repository.pdb
+C:\ElevenFiftyProjects\150IM\IM150\codingFoundations\dotnetProjects\csharpBasics\RepositoryPattern\StreamingContent_Repository\obj\Debug\net6.0\ref\StreamingContent_Repository.dll

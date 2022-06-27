@@ -27,32 +27,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/tj/.nuget/packages/": {}
+    "C:\\Users\\jacob\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Console/BakerStreet_Console.csproj",
+      "projectUniqueName": "c:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\morningChallenges\\dotnetChallenges\\BakerStreetRepoChallenge\\BakerStreet_Console\\BakerStreet_Console.csproj",
       "projectName": "BakerStreet_Console",
-      "projectPath": "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Console/BakerStreet_Console.csproj",
-      "packagesPath": "/Users/tj/.nuget/packages/",
-      "outputPath": "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Console/obj/",
+      "projectPath": "c:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\morningChallenges\\dotnetChallenges\\BakerStreetRepoChallenge\\BakerStreet_Console\\BakerStreet_Console.csproj",
+      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+      "outputPath": "c:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\morningChallenges\\dotnetChallenges\\BakerStreetRepoChallenge\\BakerStreet_Console\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/tj/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/BakerStreet_Repo.csproj": {
-              "projectPath": "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/BakerStreet_Repo.csproj"
+            "c:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\morningChallenges\\dotnetChallenges\\BakerStreetRepoChallenge\\BakerStreet_Repo\\BakerStreet_Repo.csproj": {
+              "projectPath": "c:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\morningChallenges\\dotnetChallenges\\BakerStreetRepoChallenge\\BakerStreet_Repo\\BakerStreet_Repo.csproj"
             }
           }
         }
@@ -81,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

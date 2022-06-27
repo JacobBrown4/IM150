@@ -10,3 +10,15 @@
 /Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/refint/BakerStreet_Repo.dll
 /Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.pdb
 /Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/ref/BakerStreet_Repo.dll
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\bin\Debug\net6.0\BakerStreet_Repo.deps.json
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\bin\Debug\net6.0\BakerStreet_Repo.dll
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\bin\Debug\net6.0\BakerStreet_Repo.pdb
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\BakerStreet_Repo.csproj.AssemblyReference.cache
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\BakerStreet_Repo.GeneratedMSBuildEditorConfig.editorconfig
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\BakerStreet_Repo.AssemblyInfoInputs.cache
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\BakerStreet_Repo.AssemblyInfo.cs
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\BakerStreet_Repo.csproj.CoreCompileInputs.cache
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\BakerStreet_Repo.dll
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\refint\BakerStreet_Repo.dll
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\BakerStreet_Repo.pdb
+c:\ElevenFiftyProjects\150IM\IM150\codingFoundations\morningChallenges\dotnetChallenges\BakerStreetRepoChallenge\BakerStreet_Repo\obj\Debug\net6.0\ref\BakerStreet_Repo.dll

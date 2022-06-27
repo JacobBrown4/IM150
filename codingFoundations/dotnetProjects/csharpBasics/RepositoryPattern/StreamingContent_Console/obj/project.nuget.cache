@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HtOAR5tzNlIxwJSD0tolM9tIXat0cXPxuXU0IzXncOdqcGvr2zxR4VqicKSL5yyRYtAP56MSe1hDR1Cy+WG7yQ==",
+  "dgSpecHash": "sFI3wM7j8S1ywtlfgaaGjePj93uxP7aInV8w0rwDX0G7zjy8Zw1m/yx0ZYsNLCBXMkWsgkS1EEdZ0mitgSWbKg==",
   "success": true,
-  "projectFilePath": "/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Console/StreamingContent_Console.csproj",
+  "projectFilePath": "C:\\ElevenFiftyProjects\\150IM\\IM150\\codingFoundations\\dotnetProjects\\csharpBasics\\RepositoryPattern\\StreamingContent_Console\\StreamingContent_Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
