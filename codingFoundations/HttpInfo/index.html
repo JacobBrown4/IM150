@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTTP Practice</title>
+</head>
+<body>
+    <!-- HTTP Request Info -->
+    <!-- 1. A destination address (url) -->
+    <!-- 2. "Verb"/HTTP action method (GET/POST/PUT/DELETE) -->
+    <!-- 3. Headers = options describing the request itself, can handle authentication -->
+    <!-- 4. Data (optional) = parameters for a GET request, info that would need to be included in the body for POST/PUT/DELETE -->
+    <form action="https://www.dnd5eapi.co/api/spells" method="get">
+        <!-- input "name" will add a query parameter to the "action" url searching for a "name" = whatever is put in the input -->
+        <input name="name" type="text">
+        <input type="submit" value="Search!">
+    </form>
+
+    <!-- HTTP ACTIONS -->
+    <!-- 
+        GET - used to Read existing data
+        POST - used to Create new data
+        PUT - used to Update data, by completely replacing the old version of the data
+        DELETE - used to Delete data, of course
+        PATCH - also used to Update data, but with specific changes defined (don't need to worry about full data replacement)
+
+        might not be used as much:
+        HEAD - used to list the headers of any outgoing requests from that endpoint
+        OPTIONS - used to list the HTTP actions available from that endpoint
+     -->
+
+     <!-- 
+         REST(ful) - "REpresentational State Transfer" to send (transfer) a "state" of the the data being represented in whichever format is specified
+         SOAP - Simple Object Access Protocol
+      -->
+</body>
+</html>
